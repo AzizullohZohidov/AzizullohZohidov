@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Azizulloh Zohidov and thank you for stopping by!
-- 👀 Honestly I'm interested in everything. Wish I had Doctor Strange's time stone so I could learn everything😃
 - 🌱 I’m currently learning cross-platform mobile development. Specifically Flutter
 - 📫 How to reach me here in GitHub or via my email: zohidov.azizulloh@gmail.com
 
