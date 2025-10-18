@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Azizulloh Zohidov and thank you for stopping by!
-- 🌱 I’m currently learning cross-platform mobile development. Specifically Flutter
+- 🌱 I’m a curious engineer, who loves trying new things
+- 🌱 I have been developing cross-platform apps using Flutter framework for about 4 years
+- 🌱 I'm currently learning golang
 - 📫 You can reach me here in GitHub or via my email: zohidov.azizulloh@gmail.com
 
 <!---
